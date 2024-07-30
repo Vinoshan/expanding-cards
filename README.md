@@ -17,7 +17,7 @@ This project is an interactive image gallery built with HTML, CSS, and JavaScrip
 
 ## Demo
 
-[![Animated GIF of the Expanding Cards Gallery](./assets/demo.gif)
+![Animated GIF of the Expanding Cards Gallery](./assets/demo.gif)
 
 ## Features
 
